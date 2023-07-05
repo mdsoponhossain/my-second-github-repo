@@ -1,4 +1,10 @@
-h3,h1{
+/* h3,h1{
     background-color:burlywood;border: 10px solid;border-color: blue;
 }
+} */
+
+
+div{
+    background-color: rgb(144, 74, 235);border: 50px solid;padding:10px;
+    
 }
